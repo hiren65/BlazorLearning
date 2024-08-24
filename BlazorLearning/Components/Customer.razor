@@ -1,0 +1,30 @@
+﻿@page "/Customer"
+<h3>Customer</h3>
+<ul>
+    <li>
+        customer: @customer.Name
+    </li>
+    <li>zip : @customer.Zip</li>
+</ul>
+
+
+<h3>One Way Binding</h3>
+
+<input type="number" value="@customer.Zip" />
+<h3>Two Way Binding</h3>
+<input type="number" @bind-value="@customer.Zip" /> <br />
+<h3>Two Way Binding</h3>
+<input type="text" @bind-value="@customer.Name" /> <br  />
+<h3>Two Way Binding with Event oninput</h3>
+<input  type="text" @bind="@customer.Name"  @bind:event="oninput" />
+@code {
+    Models.Customer customer = new()
+        {
+            Id = 1,
+            Name = "Magan",
+            Address = "New York",
+            Zip = 2769
+
+        };
+
+}

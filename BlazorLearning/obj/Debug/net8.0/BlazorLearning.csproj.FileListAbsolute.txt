@@ -1,0 +1,58 @@
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\appsettings.json
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.staticwebassets.runtime.json
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.exe
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.deps.json
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.runtimeconfig.json
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.dll
+C:\Users\hiren\source\repos\BlazorLearning\bin\Debug\net8.0\BlazorLearning.pdb
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.AssemblyInfoInputs.cache
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.AssemblyInfo.cs
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.csproj.CoreCompileInputs.cache
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.BlazorLearning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorLearning.props
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorLearning.props
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorLearning.props
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\scopedcss\bundle\BlazorLearning.styles.css
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\scopedcss\projectbundle\BlazorLearning.bundle.scp.css
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.dll
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\refint\BlazorLearning.dll
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.pdb
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\BlazorLearning.genruntimeconfig.cache
+C:\Users\hiren\source\repos\BlazorLearning\obj\Debug\net8.0\ref\BlazorLearning.dll
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\appsettings.Development.json
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\appsettings.json
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.staticwebassets.runtime.json
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.exe
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.deps.json
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.runtimeconfig.json
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.dll
+C:\Blazor Projects\BlazorLearning\bin\Debug\net8.0\BlazorLearning.pdb
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.AssemblyInfoInputs.cache
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.AssemblyInfo.cs
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.csproj.CoreCompileInputs.cache
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.MvcApplicationPartsAssemblyInfo.cache
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets.development.json
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.BlazorLearning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorLearning.props
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorLearning.props
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorLearning.props
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\scopedcss\bundle\BlazorLearning.styles.css
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\scopedcss\projectbundle\BlazorLearning.bundle.scp.css
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.dll
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\refint\BlazorLearning.dll
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.pdb
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\BlazorLearning.genruntimeconfig.cache
+C:\Blazor Projects\BlazorLearning\obj\Debug\net8.0\ref\BlazorLearning.dll
