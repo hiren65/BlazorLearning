@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Blazor Projects\\BlazorLearning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\components\\customer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:components\\customer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\components\\searchinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:components\\searchinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\domain\\master_inventory_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:domain\\master_inventory_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\services\\searchpartfrommasterinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:services\\searchpartfrommasterinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\services\\isearchmasteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:services\\isearchmasteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|c:\\blazor projects\\blazorlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6A84C-D030-45CD-9383-7A66F51AC1EF}|BlazorLearning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvyAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T10:31:09.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer.razor",
-              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Components\\Customer.razor",
-              "RelativeDocumentMoniker": "Components\\Customer.razor",
-              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Components\\Customer.razor",
-              "RelativeToolTip": "Components\\Customer.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T10:31:02.694Z",
+              "Title": "Master_Inventory_Record.cs",
+              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Domain\\Master_Inventory_Record.cs",
+              "RelativeDocumentMoniker": "Domain\\Master_Inventory_Record.cs",
+              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Domain\\Master_Inventory_Record.cs",
+              "RelativeToolTip": "Domain\\Master_Inventory_Record.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:21:31.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "SearchInventory.razor",
+              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Components\\SearchInventory.razor",
+              "RelativeDocumentMoniker": "Components\\SearchInventory.razor",
+              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Components\\SearchInventory.razor",
+              "RelativeToolTip": "Components\\SearchInventory.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T04:37:33.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T10:29:38.95Z"
+              "WhenOpened": "2024-08-25T04:35:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPartFromMasterInventory.cs",
+              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Services\\SearchPartFromMasterInventory.cs",
+              "RelativeDocumentMoniker": "Services\\SearchPartFromMasterInventory.cs",
+              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Services\\SearchPartFromMasterInventory.cs",
+              "RelativeToolTip": "Services\\SearchPartFromMasterInventory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:28:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISearchMasterItem.cs",
+              "DocumentMoniker": "C:\\Blazor Projects\\BlazorLearning\\Services\\ISearchMasterItem.cs",
+              "RelativeDocumentMoniker": "Services\\ISearchMasterItem.cs",
+              "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Services\\ISearchMasterItem.cs",
+              "RelativeToolTip": "Services\\ISearchMasterItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:26:10.35Z"
             }
           ]
         }

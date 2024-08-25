@@ -1,0 +1,105 @@
+﻿@page "/SearchInventory"
+@using  BlazorLearning.Domain
+@inject Services.ISearchMasterItem searchMasterItem
+
+<style>
+        .border-2 {
+        border: 2px solid black;
+    }
+    li {
+        list-style-type: none;
+        margin: 5px;
+    }
+</style>
+<div class="row">
+
+<div class="col-4">
+        <h3>Search Inventory</h3>
+        <Form  method="post">
+            <ul class="text-center">
+                <li>Part Code   <input type="text" @bind="partCode" @bind:event="oninput" /> </li>
+                <li class="text-start mt-5">  <button class="btn btn-outline-danger w-25" type="button" @onclick="()=>ShowName(partCode)">Search</button></li>
+                <li class="text-start">  <button class="btn btn-outline-success w-25" type="button" @onclick="()=>Cancel()">Cancel</button></li</ul>
+      
+      
+      
+        </Form>
+</div>
+<div class="col-8">
+        <h3 class="text-center">Inventory Details</h3
+            <table class="table table-bordered table-striped table-responsive text-center border-2 border-dark">
+    <thead>
+            <tr>
+                <th>Part Code</th>
+                <th>Name</th>
+                <th>Qty</th>
+            </tr>
+     </thead>
+     <tbody>
+    <tr>
+        <td>@partCode</td>
+        <td>@name</td>
+        <td>@Qty</td>
+    </tr>
+
+     </tbody>
+</table>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+@code {
+    public string partCode;
+    [Parameter]
+
+
+    public string name { get; set; }
+    public int? Qty { get; set; }
+
+    public Master_Inventory_Record master_Inventory_Record { get; set; }
+    public async  void ShowName(string myName)
+    {
+        if (! string.IsNullOrEmpty(myName))
+        {
+            try
+            {
+                master_Inventory_Record = await searchMasterItem.GetItem(myName);
+                name = master_Inventory_Record.NameOfPart;
+                Qty = master_Inventory_Record.Qty;
+            }
+            catch (Exception)
+            {
+                name = "Not Found";
+                Qty = 0;
+            }
+        }else
+        {
+            name = "Not Found";
+            Qty = 0;
+        }
+
+
+    }
+    public void Cancel()
+    {
+        name = "Not Found";
+        Qty = 0;
+        partCode = "";
+    }
+
+           
+        // name = master_Inventory_Record.NameOfPart;
+    
+
+
+
+}

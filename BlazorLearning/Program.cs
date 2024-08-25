@@ -1,10 +1,19 @@
 using BlazorLearning.Components;
+using BlazorLearning.DAL;
+using BlazorLearning.Services;
+using Microsoft.AspNetCore.Connections;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var connectionStr = builder.Configuration.GetSection("ConnectionStrings").GetSection("ProdConnection");
+builder.Services.AddDbContext<BlazorLearningDbContext>(options =>options.UseSqlServer(connectionStr.Value));
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddTransient<IGetCount, MasterInventoryManagement>();
+builder.Services.AddTransient<ISearchMasterItem, SearchPartFromMasterInventory>();
+
+
 
 var app = builder.Build();
 
