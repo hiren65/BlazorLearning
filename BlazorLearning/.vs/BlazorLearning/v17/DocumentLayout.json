@@ -42,8 +42,7 @@
               "RelativeToolTip": "Domain\\Master_Inventory_Record.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T05:21:31.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T05:21:31.67Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Components\\SearchInventory.razor",
               "ToolTip": "C:\\Blazor Projects\\BlazorLearning\\Components\\SearchInventory.razor",
               "RelativeToolTip": "Components\\SearchInventory.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-25T04:37:33.917Z",
               "EditorCaption": ""

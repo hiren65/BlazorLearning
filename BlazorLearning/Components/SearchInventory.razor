@@ -13,38 +13,35 @@
 </style>
 <div class="row">
 
-<div class="col-4">
-        <h3>Search Inventory</h3>
-        <Form  method="post">
-            <ul class="text-center">
-                <li>Part Code   <input type="text" @bind="partCode" @bind:event="oninput" /> </li>
-                <li class="text-start mt-5">  <button class="btn btn-outline-danger w-25" type="button" @onclick="()=>ShowName(partCode)">Search</button></li>
-                <li class="text-start">  <button class="btn btn-outline-success w-25" type="button" @onclick="()=>Cancel()">Cancel</button></li</ul>
-      
-      
-      
-        </Form>
-</div>
-<div class="col-8">
-        <h3 class="text-center">Inventory Details</h3
-            <table class="table table-bordered table-striped table-responsive text-center border-2 border-dark">
-    <thead>
-            <tr>
-                <th>Part Code</th>
-                <th>Name</th>
-                <th>Qty</th>
-            </tr>
-     </thead>
-     <tbody>
-    <tr>
-        <td>@partCode</td>
-        <td>@name</td>
-        <td>@Qty</td>
-    </tr>
+        <div class="col-4">
+                <h3>Search Inventory</h3>
+                <form  method="post">
+                    <ul class="text-center">
+                        <li>Part Code   <input type="text" @bind="partCode" @bind:event="oninput" /> </li>
+                        <li class="text-start mt-5">  <button class="btn btn-outline-danger w-25" type="button" @onclick="()=>ShowName(partCode)">Search</button></li>
+                        <li class="text-start">  <button class="btn btn-outline-success w-25" type="button" @onclick="()=>Cancel()">Cancel</button></li</ul>
+                </form>
+        </div>
+        <div class="col-8">
+                <h3 class="text-center">Inventory Details</h3>
+                    <table class="table table-bordered table-striped text-center border-2 border-dark">
+                        <thead>
+                                <tr>
+                                    <th>Part Code</th>
+                                    <th>Name</th>
+                                    <th>Qty</th>
+                                </tr>
+                         </thead>
+                         <tbody>
+                            <tr>
+                                <td>@partCode</td>
+                                <td>@name</td>
+                                <td>@Qty</td>
+                            </tr>
 
-     </tbody>
-</table>
-</div>
+                         </tbody>
+                    </table>
+        </div>
 </div>
 
 
